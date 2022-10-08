@@ -1,0 +1,8 @@
+{
+          "familyName": "Ivanov",
+          "firstName": "Ivan",
+          "intraMural": true,
+          "groupCode": 113,
+          "coursesTaken": ["Financial Markets", "Logistics", "English"],
+          "grades": [5, 3, 4]
+}
